@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b07985c.css",
+    "main.js": "/static/js/main.6536309d.js",
+    "static/media/orca-swim-unscreen.gif": "/static/media/orca-swim-unscreen.9c6b54f959e4e22d2619.gif",
+    "static/media/background.jpg": "/static/media/background.31a9dbc8fbd2fb976485.jpg",
+    "index.html": "/index.html",
+    "main.1b07985c.css.map": "/static/css/main.1b07985c.css.map",
+    "main.6536309d.js.map": "/static/js/main.6536309d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b07985c.css",
+    "static/js/main.6536309d.js"
+  ]
+}
